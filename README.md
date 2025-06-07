@@ -54,4 +54,6 @@ Open the Python script and replace "your_api_key_here" with your actual API key.
 Run the script:
 python weather_dashboard.py
 
+# Output
 
+![Image](https://github.com/user-attachments/assets/7f8fd74a-4d0a-4442-8dce-892361a4cd3c)
