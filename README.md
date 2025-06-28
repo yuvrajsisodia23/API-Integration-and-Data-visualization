@@ -1,15 +1,3 @@
-COMPANY: CODTECH IT SOLUTIONS
-
-NAME: Yuvraj Singh Sisodia
-
-INTERN ID: CT04DN873
-
-DOMAIN: Python Programming
-
-DURATION: 4 WEEEKS
-
-MENTOR: NEELA SANTOSH
-
 # Description
 Introduction
 This project is developed as part of the CodTech Internship Program Task 1. The goal of this task is to explore real-time data integration using publicly available APIs and transform the data into insightful visualizations. This README aims to provide a comprehensive overview of the project, its components, and a step-by-step walkthrough of the solution.
